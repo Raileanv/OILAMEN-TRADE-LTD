@@ -1,35 +1,27 @@
 .content {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .content p {
   font-size: 25px;
 }
-.content_left {
-  width: 15%;
-  background-color: #307435;
-}
+
 .content_center {
-  width: 70%;
-  margin: 20px;
+  width: 40%;
+  margin: 20px 0;
 }
-.content_right {
-  width: 15%;
-  background-color: #307435;
+
+img{
+  width: 100%;
 }
 
 @media only screen and (max-width: 940px) {
   .content_center {
     width: 90%;
-    margin: 20px;
   }
 
-  .content_left {
-    width: 5%;
-    background-color: transparent;
-  }
-
-  .content_right {
-    width: 5%;
-    background-color: transparent;
+  .content p {
+    font-size: 1.3rem;
   }
 }

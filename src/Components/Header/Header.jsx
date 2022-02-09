@@ -3,12 +3,12 @@ import logo from "./logo.png";
 
 const Header = () => {
   return (
-    <div className={s.header}>
-      <div className={s.header_logo}>
-        <img src={logo}></img>
+      <div className={s.header_wrapper}>
+        <div className={s.header}> </div>
+        <div className={s.header_logo}>
+          <div className={s.header_title}>OILAMEN TRADE LTD</div>
+        </div>
       </div>
-      <div className={s.header_email}>info@oilamentrade.com</div>
-    </div>
   );
 };
 

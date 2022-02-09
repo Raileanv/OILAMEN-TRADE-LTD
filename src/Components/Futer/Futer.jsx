@@ -4,17 +4,21 @@ import futer from "./futer.png";
 
 const Futer = () => {
   return (
-    <div className={s.futer}>
-      <div className={s.adress}>
-        <h3>Address:</h3>
-        <h4>
-          <strong>OILAMEN TRADE LTD</strong>
-        </h4>
-        <p>United Kingdom, London, W1G 0JR 13 John Prince's Street, 2nd</p>
-      </div>
-      <div className={s.qr}>
-        <img src={futer}></img>
-      </div>
+    <div className={s.futer_wrapper}>
+        <div className={s.futer}>
+          <div className={s.adress}>
+              <h4>Email:</h4>
+              <a href="mailto: info@oilamentrade.com"   target="_blank">iinfo@oilamentrade.com</a>
+            <h4>Address:</h4>
+            <h5>
+              <strong>OILAMEN TRADE LTD</strong>
+            </h5>
+            <p>United Kingdom, London,<br/> W1G 0JR 13 John Prince's Street, 2nd</p>
+          </div>
+          <div className={s.qr}>
+            <img src={futer}></img>
+          </div>
+        </div>
     </div>
   );
 };
