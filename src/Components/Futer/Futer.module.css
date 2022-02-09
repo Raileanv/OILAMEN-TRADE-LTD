@@ -1,0 +1,19 @@
+.futer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 220px;
+  width: 100%;
+  background-color: #dbd7cb;
+}
+.futer img {
+  height: 220px;
+  width: 220px;
+}
+.adress {
+  padding-left: 50px;
+}
+
+.qr {
+  padding-right: 41px;
+}

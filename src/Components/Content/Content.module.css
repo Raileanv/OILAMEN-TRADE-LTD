@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+}
+.content p {
+  font-size: 25px;
+}
+.content_left {
+  width: 15%;
+  background-color: #307435;
+}
+.content_center {
+  width: 70%;
+  margin: 20px;
+}
+.content_right {
+  width: 15%;
+  background-color: #307435;
+}
