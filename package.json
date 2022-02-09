@@ -2,7 +2,7 @@
   "name": "landing",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://oilamen-trade-ltd.github.io",
+  "homepage": "https://raileanv.github.io/oilamen/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
