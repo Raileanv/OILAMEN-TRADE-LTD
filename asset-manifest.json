@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.552acb5e.css",
-    "main.js": "/static/js/main.db2d06df.js",
-    "static/js/787.28525a86.chunk.js": "/static/js/787.28525a86.chunk.js",
-    "static/media/logo.png": "/static/media/logo.128decc9e1dcbaa051d8.png",
-    "static/media/futer.png": "/static/media/futer.c4a6ff739de51b1cef55.png",
-    "index.html": "/index.html",
-    "main.552acb5e.css.map": "/static/css/main.552acb5e.css.map",
-    "main.db2d06df.js.map": "/static/js/main.db2d06df.js.map",
-    "787.28525a86.chunk.js.map": "/static/js/787.28525a86.chunk.js.map"
+    "main.css": "/oilamen/static/css/main.552acb5e.css",
+    "main.js": "/oilamen/static/js/main.33e42d8b.js",
+    "static/js/787.28525a86.chunk.js": "/oilamen/static/js/787.28525a86.chunk.js",
+    "static/media/logo.png": "/oilamen/static/media/logo.128decc9e1dcbaa051d8.png",
+    "static/media/futer.png": "/oilamen/static/media/futer.c4a6ff739de51b1cef55.png",
+    "index.html": "/oilamen/index.html",
+    "main.552acb5e.css.map": "/oilamen/static/css/main.552acb5e.css.map",
+    "main.33e42d8b.js.map": "/oilamen/static/js/main.33e42d8b.js.map",
+    "787.28525a86.chunk.js.map": "/oilamen/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.552acb5e.css",
-    "static/js/main.db2d06df.js"
+    "static/js/main.33e42d8b.js"
   ]
 }
