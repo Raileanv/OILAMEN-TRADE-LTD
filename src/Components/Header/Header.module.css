@@ -10,11 +10,11 @@
   align-items: center;
   height: 50rem;
   width: 100%;
-  background-image: url("./background.jpeg");
+  background-image: url("./bcg.jpeg");
   background-repeat: no-repeat;
   background-size: 100% auto ;
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
 }
 
 .header_logo{

@@ -16,6 +16,52 @@ img{
   width: 100%;
 }
 
+.adress{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 2rem;
+  border: 3px solid #c1c1c1;
+  border-radius: 10px;
+  background-color: #ececec;
+  margin-bottom: 5rem;
+}
+.adress .adress_text{
+  font-size: 1rem;
+}
+.adress .qr{
+  width: 10rem;
+  height: 10rem;
+}
+.adress .email_block{
+height: 100%;
+}
+
+.products{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+.tbk_symbol {
+  margin-top: 0;
+  margin-bottom: 10px;
+  display: flex;
+
+}
+
+.tbk_symbol span {
+  height: 3px;
+  width: 3.5rem;
+  background-color: #0d5195;
+}
+
 @media only screen and (max-width: 940px) {
   .content_center {
     width: 90%;
@@ -23,5 +69,9 @@ img{
 
   .content p {
     font-size: 1.3rem;
+  }
+
+  .adress{
+    display: none;
   }
 }
