@@ -8,7 +8,7 @@ const Futer = () => {
         <div className={s.futer}>
           <div className={s.adress}>
               <h4>Email:</h4>
-              <a href="mailto: info@oilamentrade.com"   target="_blank">iinfo@oilamentrade.com</a>
+              <a href="mailto: info@oilamentrade.com"   target="_blank">info@oilamentrade.com</a>
             <h4>Address:</h4>
             <h5>
               <strong>OILAMEN TRADE LTD</strong>

@@ -50,7 +50,7 @@ const Content = () => {
             <div className={s.adress}>
               <div className={s.email_block}>
                 <h4>Email:</h4>
-                <a href="mailto: info@oilamentrade.com"   target="_blank">iinfo@oilamentrade.com</a>
+                <a href="mailto: info@oilamentrade.com"   target="_blank">info@oilamentrade.com</a>
               </div>
               <div className={s.adress_block}>
                 <h4>Address:</h4>
