@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oilamen/static/css/main.fbe60cbb.css",
-    "main.js": "/oilamen/static/js/main.2ecbb846.js",
+    "main.js": "/oilamen/static/js/main.9155c35b.js",
     "static/js/787.28525a86.chunk.js": "/oilamen/static/js/787.28525a86.chunk.js",
     "static/media/bcg.jpeg": "/oilamen/static/media/bcg.36550e423a6cab03c442.jpeg",
     "static/media/ship.png": "/oilamen/static/media/ship.7b40d8c2803ef343a83b.png",
@@ -13,11 +13,11 @@
     "static/media/futer.png": "/oilamen/static/media/futer.c4a6ff739de51b1cef55.png",
     "index.html": "/oilamen/index.html",
     "main.fbe60cbb.css.map": "/oilamen/static/css/main.fbe60cbb.css.map",
-    "main.2ecbb846.js.map": "/oilamen/static/js/main.2ecbb846.js.map",
+    "main.9155c35b.js.map": "/oilamen/static/js/main.9155c35b.js.map",
     "787.28525a86.chunk.js.map": "/oilamen/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbe60cbb.css",
-    "static/js/main.2ecbb846.js"
+    "static/js/main.9155c35b.js"
   ]
 }
