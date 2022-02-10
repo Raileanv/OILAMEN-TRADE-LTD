@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/www.oilamentrade.com/static/css/main.f794f01d.css",
-    "main.js": "/www.oilamentrade.com/static/js/main.5b49d01d.js",
-    "static/js/787.28525a86.chunk.js": "/www.oilamentrade.com/static/js/787.28525a86.chunk.js",
-    "static/media/bcg.jpeg": "/www.oilamentrade.com/static/media/bcg.36550e423a6cab03c442.jpeg",
-    "static/media/ship.png": "/www.oilamentrade.com/static/media/ship.7b40d8c2803ef343a83b.png",
-    "static/media/weiweis.jpeg": "/www.oilamentrade.com/static/media/weiweis.a0bf0d6e5bc0e2d63fbc.jpeg",
-    "static/media/yellow_corn.jpeg": "/www.oilamentrade.com/static/media/yellow_corn.079b32a95153024ba25c.jpeg",
-    "static/media/Milling-wheat.jpeg": "/www.oilamentrade.com/static/media/Milling-wheat.c945773bff3d0c750ba8.jpeg",
-    "static/media/barley.jpeg": "/www.oilamentrade.com/static/media/barley.2292278da1237318eae5.jpeg",
-    "static/media/wheat_grain.jpeg": "/www.oilamentrade.com/static/media/wheat_grain.0d89393e4ffe6ed68dc3.jpeg",
-    "index.html": "/www.oilamentrade.com/index.html",
-    "main.f794f01d.css.map": "/www.oilamentrade.com/static/css/main.f794f01d.css.map",
-    "main.5b49d01d.js.map": "/www.oilamentrade.com/static/js/main.5b49d01d.js.map",
-    "787.28525a86.chunk.js.map": "/www.oilamentrade.com/static/js/787.28525a86.chunk.js.map"
+    "main.css": "/static/css/main.7d7772d8.css",
+    "main.js": "/static/js/main.398fad29.js",
+    "static/js/787.28525a86.chunk.js": "/static/js/787.28525a86.chunk.js",
+    "static/media/bcg.jpeg": "/static/media/bcg.36550e423a6cab03c442.jpeg",
+    "static/media/ship.png": "/static/media/ship.7b40d8c2803ef343a83b.png",
+    "static/media/weiweis.jpeg": "/static/media/weiweis.a0bf0d6e5bc0e2d63fbc.jpeg",
+    "static/media/yellow_corn.jpeg": "/static/media/yellow_corn.079b32a95153024ba25c.jpeg",
+    "static/media/Milling-wheat.jpeg": "/static/media/Milling-wheat.c945773bff3d0c750ba8.jpeg",
+    "static/media/barley.jpeg": "/static/media/barley.2292278da1237318eae5.jpeg",
+    "static/media/wheat_grain.jpeg": "/static/media/wheat_grain.0d89393e4ffe6ed68dc3.jpeg",
+    "index.html": "/index.html",
+    "main.7d7772d8.css.map": "/static/css/main.7d7772d8.css.map",
+    "main.398fad29.js.map": "/static/js/main.398fad29.js.map",
+    "787.28525a86.chunk.js.map": "/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f794f01d.css",
-    "static/js/main.5b49d01d.js"
+    "static/css/main.7d7772d8.css",
+    "static/js/main.398fad29.js"
   ]
 }
